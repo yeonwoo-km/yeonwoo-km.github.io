@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/yeonwoo_profile.png"
+  avatar           : "yeonwoo_profile.png"
   name             : "Yeonwoo Kim"
   pronouns         : "she/her"  
   bio              : "Masters student in Information Systems. Researching AI + public data + business strategy."
