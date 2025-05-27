@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yeonwoo Kim"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yeonwoo Kim"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Masters student in Information Systems. Researching AI + public data + business strategy."
+  location         : "Maryland, USA"
+  employer         : "University of Maryland"
+  uri              : "https://yeonwoo-km.github.io"
+  email            : "madikim2@umd.edu" 
 
   # Academic websites
   academia         : # URL
